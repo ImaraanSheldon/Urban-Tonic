@@ -1,0 +1,146 @@
+.container{
+	width:990px;
+	height:auto;	
+    margin:auto;
+}
+
+.contact{
+ float:right;
+ font-family:arial;
+ font-size:33px;
+ color:grey;
+ 
+}
+
+.number{
+ float:right;
+ clear:right;
+ font-family:arial;
+ font-size:33px;
+ color:grey;
+}
+
+.nav{
+ width:990px;
+ height:57px;
+ font-family:arial;	
+ overflow:hidden;
+ background-color:black;
+ color:white;
+ font-size:28px;
+ margin-top:10px;
+ 
+ 
+}
+
+.nav a{
+ float:left;
+ color:white;
+ text-align:center;
+ text-decoration:none;
+ font-family:arial;
+ text-align:center;
+ display:block;
+ padding: 15px 69px;
+ 
+}
+
+.nav a:hover{
+	background-color:grey;
+	color:white;
+	display:block;
+	padding: 15px 69px;
+}
+
+.nav a.active {
+  background-color:#f54a1c;
+  color: white;
+}
+
+
+.bannerimg{
+  width:990px;
+  height:366px;	
+  margin-top: 15px;
+}
+
+.subheading1{
+  font-family:arial;
+  font-size:34px;
+  float:left;
+  color:#767678;
+  margin-top:10px;
+  font-style:bold;
+  
+}
+
+.subheading2{
+  font-family:arial;
+  font-size:34px;
+  margin-left:200px;
+  float:left;
+  color:#767678;
+  margin-top:10px;
+  font-style:bold;
+}
+
+.subheading3{
+  font-family:arial;
+  font-size:34px;
+  margin-left:200px;
+  float:left;
+  color:#767678;
+  margin-top:10px;
+  font-style:bold;
+}
+
+
+.imgcolumn1{
+  width:310px;
+  height:170px;
+  float:left;
+  margin-top:10px;  
+}
+
+.imgcolumn2{
+  width:310px;
+  height:170px;
+  float:left;
+  
+  margin-top:10px;
+  margin-left:30px;
+    
+}
+
+.imgcolumn3{
+  width:310px;
+  height:170px;
+  float:left;
+  
+  margin-top:10px;
+  margin-left:30px;
+  
+}
+
+.abtusinfo{
+  font-family:arial;
+  font-size:13px;
+  float:left;
+  
+}
+
+.eventinfo{
+  font-family:arial;
+  font-size:13px;
+  float:left;
+  margin-left:50px;
+  
+}
+
+.contactusinfo{
+  font-family:arial;
+  font-size:13px;
+  float:left;
+  margin-left:50px;
+  
+}
